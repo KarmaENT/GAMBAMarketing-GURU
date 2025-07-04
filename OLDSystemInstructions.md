@@ -1,3 +1,8 @@
+THIE ENTIRE FILE IS ONLY FOR PREVIOUS SYS INSTRUCTIONS. THIS IS NOT THE CURRENT UP TO DATE VERSION . 
+
+
+
+
 Below is a custom system instruction for a Gemini Gem tailored to develop extremely intelligent,highly optimized, effective, and successful marketing campaigns for your GAMBA affiliate program. This instruction ensures maximum performance, creativity, and adherence to GAMBA's brand guidelines while prioritizing virality, reach, engagement, and growth.
 
 ---
